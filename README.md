@@ -13,16 +13,15 @@ Mi nombre es [MikkeL-T] y tengo 23 años. Soy un apasionado programador que disf
 ## Proyectos Destacados
 ![image](https://cdn.discordapp.com/attachments/1120450661050499083/1157950347541745795/Picsart_23-10-01_01-01-02-411.png?ex=651a78cc&is=6519274c&hm=43a1b568da62700c917fdb907033e6ae8f3e37eaaf222557ad9fc9f42967fe04&)
 _____________________________________________________________________________________
-- 🌟 [Proyecto 1](https://github.com/Retired64/Audio_Tools64): Esta herramienta te permite automatizar el trabajo de convertir audios para la compatibilidad en sm64ex-omm y sm64ex-coop
+- 🌟 [AudioTools64](https://github.com/Retired64/Audio_Tools64):` Esta herramienta te permite automatizar el trabajo de convertir audios para la compatibilidad en sm64ex-omm y sm64ex-coop `
  _____________________________________________________________________________________
-- 🌟 [Proyecto 2](https://github.com/Retired64/Dodotuber): Breve descripción del proyecto.
+- 🌟 [TubeLoader](https://github.com/Retired64/Dodotuber):`  Te permite mediante termux descargar musica y videos de YT ` 
  _____________________________________________________________________________________
-- 🌟 [Proyecto 3](https://github.com/Retired64/builder64): Breve descripción del proyecto.
+- 🌟 [Builder64Droid](https://github.com/Retired64/builder64): ` Te permite compilar tu juego de forma automática (Yo solo cree el script para su automatización) `
 
 _____________________________________________________________________________________
 <!-- Estadísticas -->
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github.com/Retired64?tab=stars)
+
 
 <!-- Contacto -->
 ## Contacto

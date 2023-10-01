@@ -7,7 +7,7 @@ Mi nombre es [MikkeL-T] y tengo 23 años. Soy un apasionado programador que disf
 ## Acerca de Mí
 ![image](https://cdn.discordapp.com/attachments/1120450661050499083/1157952013095673897/Picsart_23-10-01_01-07-39-547.jpg?ex=651a7a59&is=651928d9&hm=2dff6658985a4b774f3198779f7744192dca313f8876b4e6dabc73c23323736d&)
 - 💻 Conocimientos medios en Termux y línea de comandos.
-- 🚀 Principalmente programo en ' Python ` y Bash.
+- 🚀 Principalmente programo en ` Python ` y `Bash`.
 
 <!-- Proyectos Destacados -->
 ## Proyectos Destacados

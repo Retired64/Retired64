@@ -1,14 +1,17 @@
 <!-- Encabezado -->
+![image](https://cdn.discordapp.com/attachments/1120450661050499083/1157948925500723231/Picsart_23-10-01_00-54-38-110.png?ex=651a7779&is=651925f9&hm=abed4afc4d13ed7d379a5132820d5ddc27528aa3e37d5427e2165c8459553fbf&)
 # ¡Hola! 👋
 Mi nombre es [MikkeL-T] y tengo 23 años. Soy un apasionado programador que disfruta trabajando en proyectos usando Termux y su línea de comandos. Aquí encontrarás algunos de mis proyectos destacados.
 
 <!-- Acerca de Mí -->
 ## Acerca de Mí
+![image](https://cdn.discordapp.com/attachments/1120450661050499083/1157952013095673897/Picsart_23-10-01_01-07-39-547.jpg?ex=651a7a59&is=651928d9&hm=2dff6658985a4b774f3198779f7744192dca313f8876b4e6dabc73c23323736d&)
 - 💻 Conocimientos medios en Termux y línea de comandos.
 - 🚀 Principalmente programo en ' Python ` y Bash.
 
 <!-- Proyectos Destacados -->
 ## Proyectos Destacados
+![image](https://cdn.discordapp.com/attachments/1120450661050499083/1157950347541745795/Picsart_23-10-01_01-01-02-411.png?ex=651a78cc&is=6519274c&hm=43a1b568da62700c917fdb907033e6ae8f3e37eaaf222557ad9fc9f42967fe04&)
 _____________________________________________________________________________________
 - 🌟 [Proyecto 1](https://github.com/Retired64/Audio_Tools64): Esta herramienta te permite automatizar el trabajo de convertir audios para la compatibilidad en sm64ex-omm y sm64ex-coop
  _____________________________________________________________________________________

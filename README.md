@@ -21,6 +21,7 @@ ________________________________________________________________________________
 ____________________________________________________________________________________
 - 🌟 [TERMUX-HELPER](https://github.com/Retired64/Termux-HELPER) ` This will help you customize, organize and navigate termux Android `
 
+- 🌀 [UBUNTU](https://github.com/RandomCoderOrg/ubuntu-on-android) Alternative plugin to emulate your desktop on Android 
 _____________________________________________________________________________________
 <!-- Estadísticas -->
 

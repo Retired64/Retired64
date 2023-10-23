@@ -20,8 +20,8 @@ ________________________________________________________________________________
 - 🌟 [`Builder64Droid`](https://github.com/Retired64/builder64): ` Te permite compilar tu juego de forma automática (Yo solo cree el script para su automatización) `
 ____________________________________________________________________________________
 - 🌟 [TERMUX-HELPER](https://github.com/Retired64/Termux-HELPER) ` This will help you customize, organize and navigate termux Android `
-
-- 🌀 [UBUNTU](https://github.com/RandomCoderOrg/ubuntu-on-android) Alternative plugin to emulate your desktop on Android 
+_____________________________________________________________________________________
+- 🌀 [UBUNTU](https://github.com/RandomCoderOrg/ubuntu-on-android) `Alternative plugin to emulate your desktop on Android `
 _____________________________________________________________________________________
 <!-- Estadísticas -->
 

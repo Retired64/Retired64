@@ -24,7 +24,7 @@ ________________________________________________________________________________
 - 🌀 [UBUNTU](https://github.com/RandomCoderOrg/ubuntu-on-android) `Alternative plugin to emulate your desktop on Android `
 _____________________________________________________________________________________
 <!-- Estadísticas -->
-
+![gif](https://cdn.discordapp.com/attachments/1120450661050499083/1165875349654089769/cat-typing.gif)
 
 <!-- Contacto -->
 ## Contacto

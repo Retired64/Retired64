@@ -49,7 +49,6 @@ ________________________________________________________________________________
 - ✅ [Termux Box](https://github.com/olegos2/termux-box) `PC windows emulator on Android `
 _____________________________________________________________________________________
 <!-- Estadísticas -->
-![gif](https://cdn.discordapp.com/attachments/1120450661050499083/1165875349654089769/cat-typing.gif)
 
 <!-- Contacto -->
 ## Contacto

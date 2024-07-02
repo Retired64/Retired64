@@ -12,10 +12,6 @@ I upload videos to YouTube of Termux Tutorials creating tools and web pages, I l
 * 🧠  I'm learning I am currently learning the use of typescript
 * 🤝  I'm open to collaborating on Open Source
 
-<a href="https://www.x.com/@cmbrdevmx" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@cmbrdevmx?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 

@@ -1,4 +1,5 @@
 ## Hola 👋
+![Texto animado](anims/hello.svg)
 
 
 <!--

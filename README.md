@@ -9,6 +9,8 @@
 ![divisor Retired64](gif/linea.gif)
 
 [![Typing SVG Retired64](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+Tecnolog%C3%ADas+Utilizadas+Retired64+)](https://git.io/typing-svg)
+
+# Habilidades <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
   
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80">

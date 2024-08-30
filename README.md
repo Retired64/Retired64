@@ -3,5 +3,5 @@
 
 ### Sobre Mi Proposito en Github 🌟
 
-- ⚡ En este repositorio está enfocado en ayudar a las personas en cosas básicas como el uso de termux y sus herramientas así como compilaciones que requieren termux y información relevante para mí así como tutoriales subidos a [YouTube](https://youtube.com/@retired64) También herramientas útiles como yo antes mencionado y traducciones de guías de inglés a español con más detalle de explicación, por ejemplo guías de termux o guías sobre el dispositivo Android🔥.
+- ⚡ En este repositorio está enfocado en ayudar a las personas en cosas básicas como el uso de termux y sus herramientas así como compilaciones que requieren termux e información relevante para mí así como tutoriales subidos a [YouTube](https://youtube.com/@retired64) También herramientas útiles como lo antes mencionado, traducciones de guías de inglés a español con más detalle de explicación, por ejemplo guías de termux o guías sobre el dispositivo Android🔥.
 ![divisor Retired64](gif/linea.gif)

@@ -76,6 +76,11 @@
 ### 📬 Enviar Correos
 - [Enviar correos electrónicos](https://github.com/Retired64/REQUESTS-PYTHON/tree/main) Desde Termux con Python guia basica pero con gran potencial para automatizar envios masivos de correos electrónicos desde termux.
 
+### 📄 Crear Factura PDF
+- [Guia de creación automática de facturas](https://github.com/Retired64/FACTURAS-PDF) Desde Termux Android con python y la herramienta fpdf.
+
+
+
 </details>
 
 <br>

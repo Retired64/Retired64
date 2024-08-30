@@ -8,8 +8,6 @@
 - ⚡ En este repositorio está enfocado en ayudar a las personas en cosas básicas como el uso de termux y sus herramientas así como compilaciones que requieren termux e información relevante para mí así como tutoriales subidos a [YouTube](https://youtube.com/@retired64) También herramientas útiles como lo antes mencionado, traducciones de guías de inglés a español con más detalle de explicación, por ejemplo guías de termux o guías sobre el dispositivo Android🔥.
 ![divisor Retired64](gif/linea.gif)
 
-[![Typing SVG Retired64](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+Tecnolog%C3%ADas+Utilizadas+Retired64+)](https://git.io/typing-svg)
-
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Contáctame
 
@@ -29,6 +27,7 @@
 ![divisor Retired64](gif/linea.gif)
 
 # Habilidades <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+[![Typing SVG Retired64](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+Tecnolog%C3%ADas+Utilizadas+Retired64+)](https://git.io/typing-svg)
   
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" height="80">

@@ -55,4 +55,9 @@
 
 ![divisor Retired64](gif/linea.gif)
 
-🔥[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=Repositorios+BOTS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Repositorios+BOTS)](https://git.io/typing-svg)
+![divisor Retired64](gif/linea.gif)
+
+- 🌟 [Telegram BOT](https://github.com/Retired64/Bot-Telegram-retired64)`Este bot es una base sencilla y deje una guia y jna carpeta con un bot básico para comprender el uso del bot` `Actualizare con el tiempo el bot a una plantilla a futuro mas funcional y basica también`
+
+- 🌟 [Discord Nodejs BOT](https://github.com/Retired64/Bot-discord-retired64)`Guia realizada No haré mas cambios. este bot tiene niveles de ejemplos ya esta terminado`

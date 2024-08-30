@@ -23,7 +23,6 @@
   <a href="https://discord.com/invite/thuhUH2WNX"><img alt="Retired64 Discord Server" src="https://img.shields.io/badge/Discord-%233b5998"></a>
 </p> 
 
-
 ![divisor Retired64](gif/linea.gif)
 
 # Habilidades <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
@@ -39,7 +38,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" height="80">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" height="80">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80" height="80">
-![divisor Retired64](gif/linea.gif)
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)

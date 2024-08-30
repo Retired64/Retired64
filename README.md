@@ -39,6 +39,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="80" height="80">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" height="80">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80" height="80">
-  
+![divisor Retired64](gif/linea.gif)
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Termux](https://img.shields.io/badge/-Termux-333333?style=flat&logo=termux)
+![Bash](https://img.shields.io/badge/-Bash_Scripting-333333?style=flat&logo=gnu-bash)
 ![divisor Retired64](gif/linea.gif)
 

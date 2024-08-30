@@ -86,4 +86,4 @@
 ![divisor Retired64](gif/linea.gif)
 
 # SM64EXCOOP <img src='https://raw.githubusercontent.com/Retired64/Retired64/main/gif/giphy.gif' width="40"> 
-- Guia detallada en [Youtube]() y aqui a continuación mas Info al respecto.
+- Guia detallada en [Youtube](https://youtu.be/WHoekKbzje4) y aqui a continuación mas Info al respecto.

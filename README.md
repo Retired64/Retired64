@@ -10,6 +10,24 @@
 
 [![Typing SVG Retired64](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+Tecnolog%C3%ADas+Utilizadas+Retired64+)](https://git.io/typing-svg)
 
+
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Mis Redes Sociales
+
+> [!TIP]
+> Si deseas más información sobre mi,
+> te invito a visitar mis redes 
+> sociales.
+
+<p align="left">
+  <a href="https://youtube.com/@tetired64"><img alt="YouTube Retired64" src="https://img.shields.io/badge/YouTube-%23c4302b"></a>
+  <a href="https://www.tiktok.com/@_retired64"><img alt="TikTok Retired64" src="https://img.shields.io/badge/TikTok-black"></a>
+  <a href="https://t.me/Retired64"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%23229ED9"></a>
+  <a href="https://discord.com/invite/thuhUH2WNX"><img alt="Retired64 Discord Server" src="https://img.shields.io/badge/Discord-%233b5998"></a>
+</p> 
+
+
+![divisor Retired64](gif/linea.gif)
+
 # Habilidades <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
   
 <div align="center">
@@ -23,4 +41,5 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" height="80">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80" height="80">
   
-  
+![divisor Retired64](gif/linea.gif)
+

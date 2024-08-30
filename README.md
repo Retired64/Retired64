@@ -70,8 +70,11 @@
   <summary>🏆 PYTHON SCRIPTS TERMUX</summary>
   <br>
 
-🔐 Proteger tu código.
+### 🔐 Proteger tu código.
 - Esconde Tu código python desde termux con la guia de [Haz binario ti código python en termux](https://github.com/Retired64/Python-Bin-Termux/blob/main/infoPython.md) Para mayor seguridad y no roben tu trabajo. No olvides regalarme tu estrella ⭐ Gracias.
+
+### 📬 Enviar Correos
+- [Enviar correos electrónicos](https://github.com/Retired64/REQUESTS-PYTHON/tree/main) Desde Termux con Python guia basica pero con gran potencial para automatizar envios masivos de correos electrónicos desde termux.
 
 </details>
 

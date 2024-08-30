@@ -79,6 +79,9 @@
 ### 📄 Crear Factura PDF
 - [Guia de creación automática de facturas](https://github.com/Retired64/FACTURAS-PDF) Desde Termux Android con python y la herramienta fpdf.
 
+### 🪧 SAT MX PYTHON
+[SAT Automatización](https://github.com/Retired64/SAT-MX-PYTHON) de tareas en python para que daques adelante tu negocio y no pierdas tiempo.
+
 
 
 </details>

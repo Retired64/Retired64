@@ -55,3 +55,4 @@
 
 ![divisor Retired64](gif/linea.gif)
 
+🔥[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=Repositorios+BOTS)](https://git.io/typing-svg)

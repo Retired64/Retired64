@@ -85,5 +85,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Compilar+JuegosAPK)](https://git.io/typing-svg)
 ![divisor Retired64](gif/linea.gif)
 
-# SM64EXCOOP <img src='https://raw.githubusercontent.com/Retired64/Retired64/main/gif/giphy.gif' width="40"> 
-- Guia detallada en [Youtube](https://youtu.be/WHoekKbzje4) y aqui a continuación mas Info al respecto.<img src='https://raw.githubusercontent.com/Retired64/Retired64/main/gif/Mario/Super-Mario-64-Gif-mario-37744271-240-320.gif' width="30">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BF3004&width=435&lines=COMPILACI%C3%93N+SM64EX-COOP+;Android+desde+termux+%E2%AD%90)](https://git.io/typing-svg)
+- Guia detallada en [Youtube](https://youtu.be/WHoekKbzje4) y aqui a continuación mas Info al respecto.<img src='https://raw.githubusercontent.com/Retired64/Retired64/main/gif/Mario/Super-Mario-64-Gif-mario-37744271-240-320.gif' width="20">

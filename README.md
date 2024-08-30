@@ -79,3 +79,11 @@
 </details>
 
 <br>
+
+![divisor Retired64](gif/linea.gif)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Compilar+JuegosAPK)](https://git.io/typing-svg)
+![divisor Retired64](gif/linea.gif)
+
+# SM64EXCOOP <img src='https://raw.githubusercontent.com/Retired64/Retired64/main/gif/giphy.gif' width="40"> 
+- Guia detallada en [Youtube]() y aqui a continuación mas Info al respecto.

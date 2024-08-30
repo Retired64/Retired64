@@ -46,5 +46,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Termux](https://img.shields.io/badge/-Termux-333333?style=flat&logo=termux)
 ![Bash](https://img.shields.io/badge/-Bash_Scripting-333333?style=flat&logo=gnu-bash)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+
 ![divisor Retired64](gif/linea.gif)
 

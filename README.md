@@ -11,7 +11,7 @@
 [![Typing SVG Retired64](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+Tecnolog%C3%ADas+Utilizadas+Retired64+)](https://git.io/typing-svg)
 
 
-# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Mis Redes Sociales
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Contáctame
 
 > [!TIP]
 > Si deseas más información sobre mi,

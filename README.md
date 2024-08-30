@@ -61,3 +61,5 @@
 - 🌟 [Telegram BOT](https://github.com/Retired64/Bot-Telegram-retired64)`Este bot es una base sencilla y deje una guia y jna carpeta con un bot básico para comprender el uso del bot` `Actualizare con el tiempo el bot a una plantilla a futuro mas funcional y basica también`
 
 - 🌟 [Discord Nodejs BOT](https://github.com/Retired64/Bot-discord-retired64)`Guia realizada No haré mas cambios. este bot tiene niveles de ejemplos ya esta terminado`
+
+- 🌟 [Cripto Minner Python BOT](https://github.com/Retired64/PYTHON-BOT-CRIPTO)`este Bot está diseñado para de forma ética y legal minar criptomonedas en una plataforma la cual utiliza de ejemplo pero este es un ejemplo base de las múltiples funciones que puede obtener un Bot para minar criptomonedas desde termux`

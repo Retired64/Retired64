@@ -63,3 +63,16 @@
 - 🌟 [Discord Nodejs BOT](https://github.com/Retired64/Bot-discord-retired64)`Guia realizada No haré mas cambios. este bot tiene niveles de ejemplos ya esta terminado`
 
 - 🌟 [Cripto Minner Python BOT](https://github.com/Retired64/PYTHON-BOT-CRIPTO)`este Bot está diseñado para de forma ética y legal minar criptomonedas en una plataforma la cual utiliza de ejemplo pero este es un ejemplo base de las múltiples funciones que puede obtener un Bot para minar criptomonedas desde termux`
+
+<br>
+
+<details>
+  <summary>🏆 PYTHON SCRIPTS TERMUX</summary>
+  <br>
+
+🔐 Proteger tu código.
+- Esconde Tu código python desde termux con la guia de [Haz binario ti código python en termux](https://github.com/Retired64/Python-Bin-Termux/blob/main/infoPython.md) Para mayor seguridad y no roben tu trabajo. No olvides regalarme tu estrella ⭐ Gracias.
+
+</details>
+
+<br>

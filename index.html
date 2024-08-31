@@ -112,6 +112,27 @@
     color: #555;
     margin: 0;
 }
+.highlight-link {
+    color: #BF3004; /* Color de texto */
+    text-decoration: none; /* Elimina el subrayado por defecto */
+    font-weight: bold; /* Hace el texto en negrita */
+    border-bottom: 2px solid #BF3004; /* Añade un borde inferior */
+    padding-bottom: 2px; /* Añade un pequeño espacio debajo del texto */
+    transition: color 0.3s ease, border-color 0.3s ease; /* Suaviza la transición de color */
+
+}
+
+.highlight-link:hover {
+    color: #FF5733; /* Cambia el color al pasar el ratón */
+    border-color: #FF5733; /* Cambia el color del borde inferior al pasar el ratón */
+}
+
+.highlight-link:focus {
+    outline: none; /* Elimina el borde de enfoque por defecto */
+    color: #FF5733; /* Cambia el color cuando el enlace está enfocado */
+    border-color: #FF5733; /* Cambia el color del borde inferior cuando está enfocado */
+}
+
 
     </style>
 </head>
@@ -206,7 +227,7 @@
             <span>30 de agosto de 2024</span>
         </div>
         <h3 class="miniblock-title">BOT DISCORD.JS TERMUX</h3>
-        <p class="miniblock-description">Este es un bot diseñado para funcionar de forma local en termux o 24/7 en discord <a href="https://github.com/Retired64/Bot-discord-retired64">Ver Repositorio</a>.</p>
+        <p class="miniblock-description">Este es un bot diseñado para funcionar de forma local en termux o 24/7 en discord<br><a href="https://github.com/Retired64/Bot-discord-retired64" class="highlight-link">Ver Repositorio</a>.</p>
     </div>
 </div>
 </details>

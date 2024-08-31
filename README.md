@@ -39,23 +39,39 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80" height="80">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="80" height="80">
 
+
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
 ![Termux](https://img.shields.io/badge/-Termux-333333?style=flat&logo=termux)
+
 ![Bash](https://img.shields.io/badge/-Bash_Scripting-333333?style=flat&logo=gnu-bash)
+
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
+
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
+
 
 ![divisor Retired64](gif/linea.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Repositorios+BOTS)](https://git.io/typing-svg)
+
+
 ![divisor Retired64](gif/linea.gif)
 
 - 🌟 [Telegram BOT](https://github.com/Retired64/Bot-Telegram-retired64)`Este bot es una base sencilla y deje una guia y una carpeta con un bot básico para comprender el uso del bot` `Actualizare con el tiempo el bot a una plantilla a futuro mas funcional y basica también`
@@ -91,7 +107,9 @@
 ![divisor Retired64](gif/linea.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Compilar+JuegosAPK)](https://git.io/typing-svg)
+
 ![divisor Retired64](gif/linea.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BF3004&width=435&lines=COMPILACI%C3%93N+SM64EX-COOP+;Android+desde+termux+%E2%AD%90)](https://git.io/typing-svg)
+
 - Guia detallada en [Youtube](https://youtu.be/WHoekKbzje4) y aqui a continuación mas Info al respecto y leer Descripción del video.<img src='https://raw.githubusercontent.com/Retired64/Retired64/main/gif/Mario/Super-Mario-64-Gif-mario-37744271-240-320.gif' width="20">

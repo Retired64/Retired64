@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF3004&width=435&lines=Hola+bienvenido+a+Retired64+;Explora+el+mundo+de+Gu%C3%ADas+Espa%C3%B1ol+)](https://git.io/typing-svg)
-![Guias Retired64 Github profile](gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+![Guias Retired64 Github profile](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![divisor Retired64](gif/linea.gif)
 
 [https://retired64.github.io/Retired64/](https://retired64.github.io/Retired64/)

@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BF3004&width=435&lines=Hola+bienvenido+a+Retired64+;Explora+el+mundo+de+Gu%C3%ADas+Espa%C3%B1ol+)](https://git.io/typing-svg)
 ![Guias Retired64 Github profile](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 [https://retired64.github.io/Retired64/](https://retired64.github.io/Retired64/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&width=435&lines=Mi+prop%C3%B3sito)](https://git.io/typing-svg)
 
 - ⚡ En este repositorio está enfocado en ayudar a las personas en cosas básicas como el uso de termux y sus herramientas así como compilaciones que requieren termux e información relevante para mí así como tutoriales subidos a [YouTube](https://youtube.com/@retired64) También herramientas útiles como lo antes mencionado, traducciones de guías de inglés a español con más detalle de explicación, por ejemplo guías de termux o guías sobre el dispositivo Android🔥.
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Contáctame
@@ -24,7 +24,7 @@
   <a href="https://discord.com/invite/thuhUH2WNX"><img alt="Retired64 Discord Server" src="https://img.shields.io/badge/Discord-%233b5998"></a>
 </p> 
 
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 # Habilidades <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
 [![Typing SVG Retired64](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%8C%9F+Tecnolog%C3%ADas+Utilizadas+Retired64+)](https://git.io/typing-svg)
@@ -42,38 +42,26 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
 ![Termux](https://img.shields.io/badge/-Termux-333333?style=flat&logo=termux)
-
 ![Bash](https://img.shields.io/badge/-Bash_Scripting-333333?style=flat&logo=gnu-bash)
-
 ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
-
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
 ![Astro](https://img.shields.io/badge/-Astro-333333?style=flat&logo=astro)
-
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-
 ![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 
 
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Repositorios+BOTS)](https://git.io/typing-svg)
 
 
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 - 🌟 [Telegram BOT](https://github.com/Retired64/Bot-Telegram-retired64)`Este bot es una base sencilla y deje una guia y una carpeta con un bot básico para comprender el uso del bot` `Actualizare con el tiempo el bot a una plantilla a futuro mas funcional y basica también`
 
@@ -105,11 +93,11 @@
 
 <br>
 
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=AA810D&width=435&lines=🔥Compilar+JuegosAPK)](https://git.io/typing-svg)
 
-![divisor Retired64](gif/linea.gif)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=BF3004&width=435&lines=COMPILACI%C3%93N+SM64EX-COOP+;Android+desde+termux+%E2%AD%90)](https://git.io/typing-svg)
 

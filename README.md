@@ -4,9 +4,12 @@
 
 ⭐LINKS IMPORTANTES⭐
 [https://links.cmbr.dev/](https://links.cmbr.dev/)
+[https://cmbr.dev/](https://cmbr.dev/)
+[⭕ YouTube @Retired64](https://youtube.com/@retired64)
+
+
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
-[https://retired64.github.io/Retired64/](https://retired64.github.io/Retired64/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&width=435&lines=Mi+prop%C3%B3sito)](https://git.io/typing-svg)
 

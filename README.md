@@ -3,8 +3,11 @@
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
 ⭐LINKS IMPORTANTES⭐
+<br>
 [https://links.cmbr.dev/](https://links.cmbr.dev/)
+<br>
 [https://cmbr.dev/](https://cmbr.dev/)
+<br>
 [⭕ YouTube @Retired64](https://youtube.com/@retired64)
 
 

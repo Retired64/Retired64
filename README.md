@@ -5,8 +5,10 @@
 ⭐LINKS IMPORTANTES⭐
 <br>
 [https://links.cmbr.dev/](https://links.cmbr.dev/)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 <br>
 [https://cmbr.dev/](https://cmbr.dev/)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 <br>
 [⭕ YouTube @Retired64](https://youtube.com/@retired64)
 

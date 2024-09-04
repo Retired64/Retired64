@@ -2,6 +2,10 @@
 ![Guias Retired64 Github profile](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
 
+⭐LINKS IMPORTANTES⭐
+[https://links.cmbr.dev/](https://links.cmbr.dev/)
+![divisor Retired64](https://raw.githubusercontent.com/Retired64/Retired64/main/gif/linea.gif)
+
 [https://retired64.github.io/Retired64/](https://retired64.github.io/Retired64/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&width=435&lines=Mi+prop%C3%B3sito)](https://git.io/typing-svg)
